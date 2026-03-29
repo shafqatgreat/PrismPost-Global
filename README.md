@@ -1,6 +1,6 @@
 # 🌈 PrismPost-Global
 **The Ultimate Multi-Platform Content Synchronization Engine.**
-![Main Interface](1.AuraDSP.png)
+![Main Interface](1.PrismPost-Global.png)
 PrismPost-Global is an intelligent automation suite designed for technical content creators, developers, and digital marketers. It transforms a single source of truth—your YouTube video—into a high-quality, platform-specific written ecosystem across 100+ social and professional networks simultaneously.
 
 ---
